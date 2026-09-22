@@ -1,0 +1,4 @@
+# The CSV/SQL pipeline uses only the standard library.
+# These dependencies are for the public Streamlit dashboard.
+streamlit==1.64.0
+pandas==3.0.6

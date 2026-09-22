@@ -1,0 +1,12 @@
+{
+  "all_orders": 99441,
+  "first_purchase": "2016-09-04",
+  "last_purchase": "2018-10-17",
+  "delivered_orders": 96478,
+  "delivered_sales_brl": 13221498.11,
+  "aov_brl": 137.0415857501192,
+  "eligible_orders": 96470,
+  "late_orders": 6534,
+  "late_pct": 6.7730900798175595,
+  "avg_delivery_days": 12.558217098051923
+}
